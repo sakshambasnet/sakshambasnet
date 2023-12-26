@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5616AQEZb2A6SkBrvQ/profile-displaybackgroundimage-shrink_350_1400/0/1673073019610?e=1708560000&v=beta&t=ke813rcc2hCIJqMq-0IvABCQ0alMo1rhC9OrDI3CoAc)]
 <h1 align="center">Hi 👋, I'm Saksham Banset</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">A Passionate Frontend Developer from Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshambasnet&label=Profile%20views&color=0e75b6&style=flat" alt="sakshambasnet" /> </p>
